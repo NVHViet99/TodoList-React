@@ -1,0 +1,14 @@
+.completed {
+  color: #606060;
+  font-style: italic;
+  text-decoration: line-through;
+}
+
+.todo-item li {
+  width: 300px;
+  padding: 10px 5px;
+  list-style-type: none;
+  font-size: 16px;
+  overflow-wrap: anywhere;
+  text-align-last: left;
+}
